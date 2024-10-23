@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+      "developerName": "Kilian Kraus",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1ggmrAjTYg5ppACCijf0LvJXEWqqX1JE2",
+      "iconURL": "https://drive.google.com/uc?export=download&id=1SSmZuZL649RIADVILqG8BxN29C1QKqjS",
+      "localizedDescription": "Flight Radar with Pro features unlocked",
+      "name": "Flightradar24 Pro",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 152756224,
+      "subtitle": "Live flight tracking",
+      "tintColor": "0000Ff",
+      "version": "9.24.0",
+      "versionDate": "2024-10-23T12:00:00+02:00",
+      "versionDescription": "Flight Radar with Gold Features unlocked\n\nYou need to sign in for the premium features to be accessible."
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.streamer.ios",
       "developerName": "Kilian Kraus",
       "downloadURL": "https://drive.google.com/uc?export=download&id=1XbgXrO1F3vc6lORJM_5ChGNuZIzmJsui",
