@@ -2,39 +2,21 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "co.windyapp.Windy",
+      "bundleIdentifier": "com.streamer.ios",
       "developerName": "Kilian Kraus",
-      "downloadURL": "https://d.1024terabox.com/file/88b4fd68f264822673c40c9ba22804dd?fid=4398947390577-250528-1044682610870049&dstime=1729675335&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-NfL1Jf%2FcwBOFc9saVKZkdwwsTik%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=9187705433755815860&dp-callid=0&r=349885078&sh=1&region=jp",
-      "iconURL": "https://data.1024terabox.com/file/6ce31952c8791e82851353bb1bf16bb1?bkt=en-43ea5360a23c0e20d7181af57b0a907889d451ac0ecba9a36eb3cb4990419956d798c1760c7b274c6c1cde619a56724ec4515b78a300bab8fc192c78ae7d5e33&xcode=96ed47e597550be2e11476d6be4353eba661ab5355d9b09a7095b323e7740e8b50107ebb0f5dbf4dca06a7f33a7bf4057f5406c47dd64118&fid=4398947390577-250528-711894104506616&time=1729675043&sign=FDTAXUGERLQlBHSKfWon-DCb740ccc5511e5e8fedcff06b081203-5YPjo3J%2Fe55MqQ6BtQuMAC2de3s%3D&to=171&size=56497&sta_dx=56497&sta_cs=0&sta_ft=png&sta_ct=0&sta_mt=0&fm2=MH%2Ctky%2CAnywhere%2C%2CTWlzc291cmk%3D%2Cany&region=tky&ctime=1729674558&mtime=1729674558&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=56497&vuk=4401850657089&iv=0&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-ea242f96cd48b866171f909d653a3be511c6659d9a3a1a176ec45054d8666e760679f7cb36770a84af546b02c27a6d417830594283fbb4f7305a5e1275657320&sl=68091977&expires=1729703843&rt=sh&r=582371461&sh=1&vbdid=-&fin=2024-10-23+100722.png&fn=2024-10-23+100722.png&rtype=1&dp-logid=9187626792892846663&dp-callid=0.1&hps=1&tsl=2000&csl=2000&fsl=-1&csign=V3qJrf9wmZoTZben5vGRrvRoSbA%3D&so=0&ut=6&uter=4&serv=0&uc=2272513262&ti=e6e2f9d25109af0e358d56f2aa647e3fc85a9d0f65b0070c&raw_appid=0&ogr=0&rregion=XVVi&adg=&reqlabel=250528_f_0207e9d470a3cd729b4210ea89906cf8_-1_e75e3bbd2a96e904d15abb468da5f9b5&ccn=US&by=themis",
-      "localizedDescription": "Wind tracker with Pro features unlocked",
-      "name": "Windy.App Pro",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1XbgXrO1F3vc6lORJM_5ChGNuZIzmJsui",
+      "iconURL": "https://drive.google.com/uc?export=download&id=1aJxQcTst2Uu9qiaODWInybz1_3qDY9W2",
+      "localizedDescription": "Streamer allows you to watch Movies and TV Shows for free with a wide range of providers to choose from.",
+      "name": "Streamer",
       "screenshotURLs": [
         ""
       ],
-      "size": 231417364,
-      "subtitle": "Best wind tracker out there",
-      "tintColor": "ADD8E6",
-      "version": "13.7.2",
+      "size": 34603008,
+      "subtitle": "New app to watch movies for free",
+      "tintColor": "808080",
+      "version": "1.2.41",
       "versionDate": "2024-10-23T12:00:00+02:00",
-      "versionDescription": "Added the latest version available (13.7.2)\n\nPro features unlocked"
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Kilian Kraus",
-      "downloadURL": "https://d.1024terabox.com/file/5b6cf49f0b41f0ea80645f507f956089?fid=4398947390577-250528-589676577484687&dstime=1729594425&rt=sh&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-64BWdMNg%2F%2BAbDj7IGu409PnQs1s%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=9165986073925454700&dp-callid=0&r=139826769&sh=1&region=jp",
-      "iconURL": "https://data.1024terabox.com/file/33f10cc63b1b2f311b88fad9f13fd81e?bkt=en-2d9e6f81f9f5bca0b050a6c520520c042d64ff416c50e04cea0e269fea2f7300f0b4fbb8d97bc4f8228bdb8af7d5b017e3634df01d1ebfb93e073eb6aad895db&xcode=2f6eb8b6ab0f98b74e6ba5a1c65604b63a6aa4eea53754354265c7e8c1f3bb25eecc1b9a4f9aa76bca06a7f33a7bf4057f5406c47dd64118&fid=4398947390577-250528-295145787150832&time=1729594573&sign=FDTAXUGERLQlBHSKfWon-DCb740ccc5511e5e8fedcff06b081203-OiglRaWxGoiJYrRR%2F79Lhvd837g%3D&to=171&size=5054&sta_dx=5054&sta_cs=2&sta_ft=jpg&sta_ct=0&sta_mt=0&fm2=MH%2Ctky%2CAnywhere%2C%2CTWlzc291cmk%3D%2Cany&region=tky&ctime=1729548902&mtime=1729548902&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=5054&vuk=4398830669367&iv=0&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-2b03d028078bfd7084f38deb1c85ed5997822b8dd89c7b3fc7f838d2656cfa84d58e5d84730620789ceb3096b159b6f30b2f855f7d6c55bc305a5e1275657320&sl=68091977&expires=1729623373&rt=sh&r=443405801&sh=1&vbdid=-&fin=2024-10-21+225706.jpg&fn=2024-10-21+225706.jpg&rtype=1&dp-logid=9166025675037280889&dp-callid=0.1&hps=1&tsl=2000&csl=2000&fsl=-1&csign=s4q%2F5Lxupvry2uuji3NcQcIvA8s%3D&so=0&ut=6&uter=4&serv=0&uc=2272513262&ti=e6e2f9d25109af0e1817dcf0f9c8e5ccb0efd2a5dd5ebbc6&raw_appid=0&ogr=0&rregion=XVVi&adg=&reqlabel=250528_f_0207e9d470a3cd729b4210ea89906cf8_-1_e75e3bbd2a96e904d15abb468da5f9b5&ccn=US&by=themis",
-      "localizedDescription": "uYouEnhanced is a modified version of YouTube with special tweaks such as AdBlock, a Download feature etc.",
-      "name": "uYouEnhanced",
-      "screenshotURLs": [
-        ""
-      ],
-      "size": 122384371,
-      "subtitle": "YouTube Lite Plus",
-      "tintColor": "FF0000",
-      "version": "1.3b2",
-      "versionDate": "2024-10-22T12:00:00+02:00",
-      "versionDescription": "Latest version of uYouEnhanced has been added to the repository."
+      "versionDescription": "Streamer is a free app to watch movies and TV Shows without paying for a subscription.\n\nPlease deactivate your Adblock when trying to watch something. Otherwise, it will not work.\n\nAdded the latest version (1.2.41)"
     }
   ],
   "identifier": "com.kk.source",
