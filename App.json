@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "Kilian Kraus",
+      "downloadURL": "https://drive.usercontent.google.com/download?id=10alcFXsd4bEGAzlzismqd98s3TnwClab&export=download&authuser=0",
+      "iconURL": "https://drive.usercontent.google.com/download?id=10alcFXsd4bEGAzlzismqd98s3TnwClab&export=download&authuser=0",
+      "localizedDescription": "SoundCloud with Premium Features",
+      "name": "Darkcloud",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 55462400,
+      "subtitle": "SoundCloud with premium Festures",
+      "tintColor": "000000",
+      "version": "6.16.1",
+      "versionDate": "2020-10-23T14:00:00+02:00",
+      "versionDescription": "Added the latest DarkCloud IPA.\n\nSoundCloud with Premium Features"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
       "developerName": "Kilian Kraus",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1ggmrAjTYg5ppACCijf0LvJXEWqqX1JE2&export=download&authuser=0&confirm=t&uuid=46ef2472-bddf-4650-9fef-9d9364027b83&at=AN_67v1wNYO9SU-K4IGcCb9KbhNU%3A1729712758030",
